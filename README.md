@@ -1,5 +1,5 @@
 # Bioinformatics Concepts
-
+_________________
 ## Files
 *All files have comments with further explanations on what each function does. Refer to the files to learn more.*
 
