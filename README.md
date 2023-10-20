@@ -18,13 +18,11 @@ assess the value of a certain motif or series of DNA sequences.
 3) All txt files are used in their respective python files in order to read the genome for analysis.
 
 ## Overview
-Bioinformatics concepts is a Python project I initiated in order to learn and practice the concepts of Bioinformatics, a field where I am heavily interested in.
-I come from a Biochemistry background from UCSD, and have a self-taught passion for working with programming languages and data analysis.
+Bioinformatics concepts is a Python project I initiated in order to learn and practice the concepts of Bioinformatics, a field that mixes my background with my newfound passions.
+I come from a Biochemistry background from UCSD, and have a self-taught passion for working with programming languages and data analytics.
 I came upon the field of bioinformatics during my last year at UCSD, and it immediately grabbed my attention. 
 It was a field that combined my love for biochemistry research/science, and my passion for learning languages like Python and SQL.
-Although it was too late for me to change my major, I have been interested in bioinformatics ever since, and look for opportunities to develop my skills further. 
-
-My goals are to gain some professional experience in the field of Bioinformatics, and eventually pursue a Masters in Bioinformatics, or even a Ph.D if I find a specific research program that I am passionate about.
+As I have been interested in developing Python skills, this was an opportunity to develop my skills further. 
 
 This project was a great learning experience for me, where I could really gain hands-on understanding of how modern day programming can enhance the analysis of scientific research.
 Research and science never ends, so I hope to keep learning and growing, both in my biochemistry knowledge, and my programming technical skills!
